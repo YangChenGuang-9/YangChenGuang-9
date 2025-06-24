@@ -1,7 +1,7 @@
 ### Hi 👋🏻, I'm ChenGuang! 
 - 👨🏻‍💻 **Frontend Developer** based in Xi'an, China.
 - 🌐 Focusing on TypeScript and Next.js development of front-end technologies.
-- 🔭 I’m currently working on **web3**、**blockchain application**
+- 🔭 I’m currently working on **web3**、**decentralized application**
 
 ### 👨🏻‍💻 Techs and Tools
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,tailwindcss,nodejs,postgresql,mysql,ai,&theme=light&perline=10)](https://skillicons.dev)
