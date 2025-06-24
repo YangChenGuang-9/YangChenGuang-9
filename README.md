@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi 👋🏻, I'm ChenGuang! 
+- 👨🏻‍💻 **Frontend Developer** based in Xi'an, China.
+- 🌐 Focusing on TypeScript and Next.js development of front-end technologies.
+- 🔭 I’m currently working on **web3**、**blockchain application**
+
+### 👨🏻‍💻 Techs and Tools
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,tailwindcss,nodejs,postgresql,mysql,ai,&theme=light&perline=10)](https://skillicons.dev)
 
 <!--
 **YangChenGuang-9/YangChenGuang-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
