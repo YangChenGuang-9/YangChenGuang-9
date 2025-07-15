@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **web3**、**decentralized application**
 
 ### 👨🏻‍💻 Techs and Tools
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,tailwindcss,nodejs,postgresql,mysql,ai,&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vue,tailwindcss,nodejs,ai,&theme=light&perline=10)](https://skillicons.dev)
 
 <!--
 **YangChenGuang-9/YangChenGuang-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
